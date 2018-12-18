@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0px;
+}
+
+.main {
+    background: url("https://images.unsplash.com/photo-1507838153414-b4b713384a76?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80") no-repeat center;
+    background-size: cover;
+    height: 60vh;
+    width: 100%;
+    top: 0px;
+       
+}
+
+h1 > p { 
+    font-size: 3em;
+    color: #342423;
+    text-align: center;
+      
+}
+
+label {
+    margin-left: 40px;
+}
+
+.form {
+    display: flex;
+    flex-flow: row;
+    max-width: 100%;
+    font-size: 40px;
+    padding: 20px;
+}
+
+input {
+    height: 40px;
+    width: 450px;;
+    font-size: 18px;
+    border: 1px solid black;
+    padding: 5px;
+    margin-left: 5px;
+}
+
+button {
+    margin-left: 15px;
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
