@@ -7,9 +7,7 @@ body {
     background: url("https://images.unsplash.com/photo-1507838153414-b4b713384a76?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80") no-repeat center;
     background-size: cover;
     height: 60vh;
-    width: 100%;
-    top: 0px;
-       
+    width: 100%;      
 }
 
 h1 > p { 
@@ -46,5 +44,10 @@ button {
     color: white;
     border: 1px solid black;
     border-radius: 4px;
+}
+
+section {
+    text-align: center;
+    color: darkblue;
 }
 
